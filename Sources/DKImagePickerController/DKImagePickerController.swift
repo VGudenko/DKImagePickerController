@@ -303,13 +303,13 @@ open class DKImagePickerController: UINavigationController, DKImageBaseManagerOb
             }
         }
         
-        if self.inline {
+//        if self.inline {
             exportBlock()
-        } else {
-            self.presentingViewController?.dismiss(animated: true, completion: {
-                exportBlock()
-            })
-        }
+//        } else {
+//            self.presentingViewController?.dismiss(animated: true, completion: {
+//                exportBlock()
+//            })
+//        }
     }
     
     private func cancelCurrentExportRequestIfNeeded() {
