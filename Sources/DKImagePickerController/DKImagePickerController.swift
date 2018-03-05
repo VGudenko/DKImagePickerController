@@ -248,9 +248,9 @@ open class DKImagePickerController: UINavigationController, DKImageBaseManagerOb
     
     @objc open override func dismiss(animated flag: Bool, completion: (() -> Void)? = nil) {
         if self.inline {
-            UIApplication.shared.keyWindow!.rootViewController!.dismiss(animated: true, completion: nil)
+            UIApplication.shared.keyWindow!.rootViewController!.dismiss(animated: true, completion: completion)
         } else {
-            super.dismiss(animated: true, completion: nil)
+            super.dismiss(animated: true, completion: completion)
         }
     }
     
