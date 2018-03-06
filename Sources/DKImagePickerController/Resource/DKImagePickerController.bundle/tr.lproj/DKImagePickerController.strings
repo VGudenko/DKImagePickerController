@@ -16,7 +16,7 @@
 
 "picker.alert.ok" = "Tamam";
 
-"picker.select.title" = "Seçili(%@)";
+"picker.select.title" = "Seçili (%@)";
 
 "picker.select.done.title" = "Tamam";
 

@@ -16,7 +16,7 @@
 
 "picker.alert.ok" = "확인";
 
-"picker.select.title" = "선택(%@)";
+"picker.select.title" = "선택 (%@)";
 
 "picker.select.done.title" = "확인";
 

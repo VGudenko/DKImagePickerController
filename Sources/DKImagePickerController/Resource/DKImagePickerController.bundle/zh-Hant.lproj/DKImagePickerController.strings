@@ -16,7 +16,7 @@
 
 "picker.alert.ok" = "確定";
 
-"picker.select.title" = "選擇(%@)";
+"picker.select.title" = "選擇 (%@)";
 
 "picker.select.done.title" = "完成";
 

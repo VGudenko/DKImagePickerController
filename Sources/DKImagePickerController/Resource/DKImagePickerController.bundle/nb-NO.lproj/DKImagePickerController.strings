@@ -16,7 +16,7 @@
 
 "picker.alert.ok" = "OK";
 
-"picker.select.title" = "Velg(%@)";
+"picker.select.title" = "Velg (%@)";
 
 "picker.select.done.title" = "Ferdig";
 

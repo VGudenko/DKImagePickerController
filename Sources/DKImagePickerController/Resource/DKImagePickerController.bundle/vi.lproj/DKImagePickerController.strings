@@ -16,7 +16,7 @@
 
 "picker.alert.ok" = "Đồng ý";
 
-"picker.select.title" = "Chọn(%@)";
+"picker.select.title" = "Chọn (%@)";
 
 "picker.select.done.title" = "Xong";
 

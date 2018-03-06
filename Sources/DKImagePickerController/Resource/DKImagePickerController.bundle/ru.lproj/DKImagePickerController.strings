@@ -16,7 +16,7 @@
 
 "picker.alert.ok" = "Ок";
 
-"picker.select.title" = "Выбрать(%@)";
+"picker.select.title" = "Выбрать (%@)";
 
 "picker.select.done.title" = "Готово";
 

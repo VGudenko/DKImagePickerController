@@ -16,7 +16,7 @@
 
 "picker.alert.ok" = "OK";
 
-"picker.select.title" = "Selecionado(%@)";
+"picker.select.title" = "Selecionado (%@)";
 
 "picker.select.done.title" = "Pronto";
 
